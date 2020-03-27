@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "the-con-is-on"
+title: "study-public-1"
 date: 2020-03-27
 ---
 (i) Make sure that you understand the formal statement (see Chapter 4).
