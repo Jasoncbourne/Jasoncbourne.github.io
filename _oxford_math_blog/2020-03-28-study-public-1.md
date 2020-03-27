@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: oxford_math_blog
 title: "study-public-1"
 date: 2020-03-28
 ---
