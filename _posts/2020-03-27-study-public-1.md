@@ -18,5 +18,5 @@ revision). \
 (vii) Try omitting one of the assumptions; does the conclusion of the theorem
 still hold? can you find an example to show that it does not? \
 (viii) Try the statement of the theorem and the proof on some special cases
-to get a feeling for what it means. \
+to get a feeling for what it means. 
 
